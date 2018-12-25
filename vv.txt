@@ -1,0 +1,223 @@
+http://lt083400:7001/VPOFormAutomation-VPOFormViewController-context-root/ReportinCRExcel?countryId=1,2,3,4&phaseName=RIS,HA/EC%20Submission&questionId=14,16,15,12,102,105,106,109,110,18,101,17,20,19,10,11,8,7,5,3,4,9,107,108,2,6,104,112,1,103,111&regionId=1,2,3,4,5,6&vendorCategoryId=2,3,1
+
+http://LT083400:7001/VPOFormAutomation-VPOFormViewController-context-root/ReportingVFExcel?fromDateVal=10-NOV-18&toDateVal=16-NOV-18&trialVal=1&countryVal=1&siteVal=1&primaryInvVal=1&craVal=1&vendorCatVal=1&vendorVal=1&draftFormsVal=1&totalFormsVal=1&completedFormsVal=1&overdueFormsVal=1
+
+
+http://lt083400:7001/VPOFormAutomation-VPOFormViewController-context-root/CRExcel?inputJson={
+    "CLSponsorName": "93501120",
+    "CLTrialCode": "FID-CDI-EH",
+    "CLSiteId": "1002",
+    "CLProjectCode": "FIDAXOMICIN",
+    "CLState": "AZ0",
+    "CLCentreStreetAddress": "1515 North Campbell Avenue0 line2 line3 ",
+    "CLCity": "Tucson0",
+    "CLDepartment": "93501120",
+    "CLZipCode": "857240",
+    "CLCenterType": "General Practice",
+    "CLCountry": "URY",
+    "ReportShippingDtl": [
+        {
+            "CLReportShippingDtlRoleName": "Sub-Investigator",
+            "CLReportShippingDtlFirstName": "Marilyn",
+            "CLReportShippingDtlLastName": "Talley",
+            "CLReportShippingDtlFaxNumber": "+1 520 626 2225",
+            "CLReportShippingDtlEmailAddress": "Marilyn.Talley@novartis.com"
+        },
+            {
+                "CLReportShippingDtlRoleName": "Primary Investigator",
+                "CLReportShippingDtlFirstName": "DaXXXXX",
+                "CLReportShippingDtlLastName": null,
+                "CLReportShippingDtlFaxNumber": "+49 721 571211",
+                "CLReportShippingDtlEmailAddress": "DaXXXXX.ObXXXXXXXXX@abc.com"
+            },
+            {
+                "CLReportShippingDtlRoleName": "Study Investigator",
+                "CLReportShippingDtlFirstName": "SaXXXX",
+                "CLReportShippingDtlLastName": "ScXXXXXXX",
+                "CLReportShippingDtlFaxNumber": "+49 911 273 12 648",
+                "CLReportShippingDtlEmailAddress": "SaXXXX.ScXXXXXXX@abc.com"
+            },
+            {
+                "CLReportShippingDtlRoleName": "Study Coordinator",
+                "CLReportShippingDtlFirstName": "DoXXXX",
+                "CLReportShippingDtlLastName": "KaXXXXX",
+                "CLReportShippingDtlFaxNumber": null,
+                "CLReportShippingDtlEmailAddress": "DoXXXX.KaXXXXX@abc.com"
+            }
+    ],
+    "CLFirstName": "David",
+    "CLLastName": "Alberts",
+    "CLPhoneCode": "+1 520 626 2271",
+    "CLFaxNumber": "+1 520 626 2225",
+    "CLEmailAddress": "sue.kobernat@parexel.com",
+    "CLSecondaryContactRole": "Sub-Investigator",
+    "CLSecondaryFirstName": "Marilyn Talley",
+    "CLSecondaryPhoneCode": "+1 520 626 2271",
+    "CLShippingContactDtlsFlag": "Primary Investigator",
+    "CLShippingFirstName": "David",
+    "CLShippingLastName": "Alberts",
+    "CLShippingPhoneCode": "+1 520 626 2271",
+    "CLShippingFaxNumber": "+1 520 626 2225",
+    "CLShippingEmailAddress": "sue.kobernat@parexel.com",
+    "CLShippingCenterDtlsFlag": true,
+    "CLShippingCenterType": "General Practice",
+    "CLShippingDepartment": "93501120",
+    "CLShippingCentreStreetAddress": "1515 North Campbell Avenue0 line2 line3 ",
+    "CLShippingCity": "Tucson0",
+    "CLShippingState": "AZ0",
+    "CLShippingCountry": "URY",
+    "CLShippingZipCode": "857240/Tucson0",
+    "CLLabReportingPreference": "SI (System International) Units",
+    "CLLabReportingOnlineFlag": "Online",
+    "CLLabReportingFaxFlag": "Fax Reporting",
+    "vendorName": "CRL",
+    "completedBy": "userfullname",
+    "completedDate": "2018-11-01T1:00:09",
+    "formName": "formfullname"
+}
+
+
+
+http://lt083400:7001/VPOFormAutomation-VPOFormViewController-context-root/ECGExcel?inputJson={
+"ECGProtocolId": "CVPO0012018",
+"ECGSiteId": "3100",
+"ECGSiteName": "Children's Hospital of Michigan StudyCoordinator:CTBM100C2302",
+"ECGSiteAddress": "3901 Beaubien Boulevard   ",
+"ECGCity": "Detroit",
+"ECGZipCode": "48201",
+"ECGCountry": "USA",
+"ECGPIFirstName": "Sam",
+"ECGPILastName" : "Larisa",
+"ECGPIPhone": "23-3254556",
+"ECGPIFax": "32432546",
+"ECGPIMailAddress": "abc@def.com",
+"ECGCoordinatorName": "Sam Larisa",
+"ECGSCPhone": "5678768",
+"ECGSCFax": "7486786",
+"ECGSCMailAddress": "",
+"ECGCRAName": "Sam Larisa",
+"ECGCRAPhone": "3657567",
+"ECGCRAFax": "3654765",
+"ECGCRAEmailID": "abc@def.com",
+"ECGbeSiteDate": "14-Dec-18",
+"ECGFaxFailRole": "Sub-Investigator",
+"ECGFaxFailName": "Sam Larisa",
+"ECGFaxFailEmail": "abc@def.com",
+"ECGFaxFailEmailDCFReport": "abc@def.com",
+"ECGFaxFailEmailDCF": "abc@def.com",
+"Form_Id": "174",
+"LabPreviewConfiramtion": "true",
+"ReportShippingDtl": [{}],
+"Complete": "NO",
+"Updated_By": "AMARABA2",
+"Updated_Date": "2018-12-21T11:09:25",
+"accessInfo": {},
+"formId": "174",
+"sectionStatus": [{initial: "false", processing: "false", completed: "true", label: "Site Information"}],
+"vendorName": "CRL",
+    "completedBy": "userfullname",
+    "completedDate": "2018-11-01T1:00:09",
+    "formName": "formfullname"
+}
+
+
+
+http://lt083400:7001/VPOFormAutomation-VPOFormViewController-context-root/IRTExcel?inputJson={
+    "IRTSiteId": "1001",
+    "IRTProjectCode": "CVPO001",
+    "IRTTrialCode": "CVPO0012018",
+    "IRTSponsorName": "NOVARTIS",
+    "IRTSiteName": null,
+    "IRTInvestigatorName": null,
+    "IRTFacilityName": "University of Arizona / Cancer Center",
+    "IRTDepartment": "93807668",
+    "IRTShippingStreetAdd1": "1515 North Campbell Avenue0 line2 line3 ",
+    "IRTShippingStreetAdd2": "123456",
+    "IRTShippingCity": "Tucson0",
+    "IRTShippingState": "AZ0",
+    "IRTShippingCountry": "URY",
+    "IRTShippingPostCode": "857240",
+    "IRTResupplyLevel": "High",
+    "IRTSiteTimeZone": null,
+    "IRTSiteTimeZoneOffset": null,
+    "IRTDaylightSaving": null,
+    "IRTDeliveryConsignee": "Drug Shipment Contact",
+    "IRTDeliveryConsigneeName": null,
+    "IRTDeliveryConsigneeFax": null,
+    "IRTDeliveryConsigneeEmail": null,
+    "IRTDeliveryConsigneeTel": null,
+    "IRTSiteContactDesc": "Primary Investigator",
+    "IRTSiteMainContact": null,
+    "IRTSiteContactFax": null,
+    "IRTSiteEmail": null,
+    "IRTContactPhone": null,
+    "IRTAdditionalContactEmail": "1111",
+    "IRTSiteMonitor": "Siva Rajasekhar",
+    "IRTSiteMonitorFax": null,
+    "IRTMonitorEmail": "akshit.singhal@novartis.com",
+   "IRTMonitorPhone": null,
+    "IRTAdditionalMonitorEmail": "1111",
+    "IRTDrugDestruction": "On Site",
+    "IRTDestructionDepotDetails": "Test",
+    "IRTDestructionDepotID": "Test",
+    "IRTUserInfo": [
+        {
+            "IRTUserHoldCenduitAccountFlag": "No",
+            "IRTUserAccountFullName": null,
+            "IRTUserAccessRole": "Trial Coordinator",
+            "IRTUserSiteAccess": null,
+            "IRTUserAccountEmail": "Dummdf@sdfsdfsdfsdf",
+            "IRTUserCountry": null
+        },
+        {
+            "IRTUserHoldCenduitAccountFlag": "Yes",
+            "IRTUserAccountFullName": "fullNMW",
+            "IRTUserAccessRole": "Trial Coordinator",
+            "IRTUserSiteAccess": "sssssss",
+            "IRTUserAccountEmail": null,
+            "IRTUserCountry": "OCIUNTERE"
+        }
+    ],
+    "IRTEnvelopePINFlag": "To the site address provided in the Site Information tab",
+    "IRTEnvelopeSite": null,
+    "IRTEnvelopeCOName": null,
+    "IRTEnvelopeAddress1": null,
+    "IRTEnvelopeAddress2": null,
+    "IRTEnvelopeCity": null,
+    "IRTEnvelopeState": null,
+    "IRTEnvelopePostcode": null,
+    "IRTEnvelopeCountry": null,
+    "IRTEnvelopeRefEmail": null,
+    "sectionStatus": [
+        {
+            "initial": "false",
+            "processing": "false",
+            "completed": "true",
+            "label": "Site Information"
+        },
+        {
+            "initial": "false",
+            "processing": "false",
+            "completed": "true",
+            "label": "User Information"
+        },
+        {
+           "initial": "false",
+            "processing": "false",
+            "completed": "true",
+            "label": "GenericAccount Envelope Address"
+        },
+        {
+            "initial": "false",
+            "processing": "true",
+            "completed": "false",
+            "label": "Preview"
+        }
+    ],
+    "vendorName": "CRL",
+    "completedBy": "-",
+    "formName": null,
+    "IRTCenterType": "General Practice",
+    "completedDate": "-"
+}
+
